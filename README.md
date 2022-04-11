@@ -1,4 +1,6 @@
 # Doge-ScreenShot
+Add img compress..
+
 desktop screenshot
 
 ### Usage:
